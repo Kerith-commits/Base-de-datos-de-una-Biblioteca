@@ -1,7 +1,7 @@
-# Base de datos para una biblioteca
+# Base-de-datos-de-una-Biblioteca
 ## 👨‍💻 Integrantes
 -Andrea Mejia
--Katerin
+-Katherine Romero
 -Jireth Garcia
 -Angelsady Barahona
 -Axel Reyes
@@ -13,6 +13,4 @@
 Diseñar e implementar una base de datos relacional eficiente y normalizada en la nube que centralice la gestión del inventario de libros, registre las transacciones (ventas o préstamos) y administre la información de los clientes y autores de una librería.
 
 [Enlace a la base de datos de supabase](https://supabase.com/dashboard/project/driglmadfszqshfrnbrf/database/schemas)
-
-![Esquema de la base de datos](relaciones de supabase.png)
 
