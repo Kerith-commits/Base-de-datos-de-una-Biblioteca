@@ -1,7 +1,7 @@
 # Base-de-datos-de-una-Biblioteca
 ## 👨‍💻 Integrantes
 -Andrea Mejia
--Katerin
+-Katherine Romero
 -Jireth Garcia
 -Angelsady Barahona
 -Axel Reyes
